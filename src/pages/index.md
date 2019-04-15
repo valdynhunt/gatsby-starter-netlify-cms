@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee that has absolutely no conscience
-image: /img/home-jumbotron.jpg
+image: /img/100315_coffee_opener_new_0.jpg
 heading: Great coffee sans conscience
 subheading: Support sustainable drinking while enjoying a cup
 mainpitch:
@@ -60,10 +60,10 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/download.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/d1.jpeg
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
